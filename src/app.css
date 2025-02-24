@@ -147,15 +147,3 @@ input[type="number"] {
 .tippy-box[data-theme~="dark"] {
     @apply rounded-lg border border-gray-900 bg-gray-950 text-xs shadow-xl;
 }
-
-.markdown-prose {
-    @apply prose dark:prose-invert prose-headings:font-semibold prose-hr:my-4 prose-hr:border-gray-100 prose-hr:dark:border-gray-800 prose-p:my-0 prose-img:my-1 prose-headings:my-1 prose-pre:my-0 prose-table:my-0 prose-blockquote:my-0 prose-ul:-my-0 prose-ol:-my-0 prose-li:-my-0 whitespace-pre-line;
-}
-
-.markdown-prose-sm {
-    @apply prose dark:prose-invert prose-headings:font-semibold prose-hr:my-0 prose-hr:border-gray-100 prose-hr:dark:border-gray-800 prose-p:my-0 prose-img:my-1 prose-headings:my-1 prose-pre:my-0 prose-table:my-0 prose-blockquote:my-0 prose-ul:-my-0 prose-ol:-my-0 prose-li:-my-0 text-sm whitespace-pre-line;
-}
-
-.markdown-prose-xs {
-    @apply prose dark:prose-invert prose-headings:font-semibold prose-hr:my-0 prose-hr:border-gray-100 prose-hr:dark:border-gray-800 prose-p:my-0 prose-img:my-1 prose-headings:my-1 prose-pre:my-0 prose-table:my-0 prose-blockquote:my-0 prose-ul:-my-0 prose-ol:-my-0 prose-li:-my-0 text-xs whitespace-pre-line;
-}
