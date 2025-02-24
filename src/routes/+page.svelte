@@ -4,4 +4,6 @@
     documentation
 </p>
 
-<button> button </button>
+<!-- <button> button </button> -->
+
+<input type="text" placeholder="input" />
