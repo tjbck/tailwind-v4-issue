@@ -5,5 +5,3 @@
 </p>
 
 <button> button </button>
-
-<input type="text" placeholder="input" />
